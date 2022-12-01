@@ -1,5 +1,5 @@
 
-# **👋Hi, I’m Yaroslav**
+# **👋 Hi, I’m Yaroslav**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yakkkot/">
@@ -10,8 +10,8 @@
   </a>
 </p>
 
-##👀 I’m interested in React, TypeScript, NextJS, NodeJS, Express and others:
-# hi
+## **👀 I’m interested in React, TypeScript, NextJS, NodeJS, Express and others:**
+
 <p align="left">
   <a href="https://www.linkedin.com/in/yakkkot/">
     <img src="https://skillicons.dev/icons?i=idea,js,ts,react,nextjs,nodejs,express,mongodb,figma,tailwind,github" />
