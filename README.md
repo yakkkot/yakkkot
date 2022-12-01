@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Languages and Tools:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+ JavaScript TypeScript Angular React NodeJs MongoDB MySQL Git GitHub
