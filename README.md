@@ -9,9 +9,11 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
 <div>
   <img src="https://komarev.com/ghpvc/?username=yakkkot&style=flat-square&color=blue" alt=""/>
   </div>
+  
 ## **👀 I’m interested in React, TypeScript, NextJS, NodeJS, Express and others:**
 
 <p align="left">
