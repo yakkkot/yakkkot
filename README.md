@@ -1,5 +1,5 @@
 
-**👋 Hi, I’m Yaroslav**
+# **👋Hi, I’m Yaroslav**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yakkkot/">
@@ -11,7 +11,7 @@
 </p>
 
 ##👀 I’m interested in React, TypeScript, NextJS, NodeJS, Express and others:
-
+# hi
 <p align="left">
   <a href="https://www.linkedin.com/in/yakkkot/">
     <img src="https://skillicons.dev/icons?i=idea,js,ts,react,nextjs,nodejs,express,mongodb,figma,tailwind,github" />
