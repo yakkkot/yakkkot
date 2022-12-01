@@ -8,6 +8,7 @@
   <a href="https://www.instagram.com/yakkkkot/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=yakkkot&style=flat-square&color=blue" alt=""/>
 </p>
 
 ## **👀 I’m interested in React, TypeScript, NextJS, NodeJS, Express and others:**
