@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yakkkot/">
-    <img src="https://skillicons.dev/icons?i=idea,js,ts,react,nextjs,nodejs,express,mongodb,figma,tailwind,github" />
+    <img src="https://skillicons.dev/icons?i=idea,js,ts,solidity,react,nextjs,nodejs,express,nestjs,mongodb,figma,tailwind,github" />
   </a>
 </p>
 
