@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=yakkkot&style=flat-square&color=blue" alt=""/>
   </div>
   
-## **👀 I’m interested in React, TypeScript, NextJS, NodeJS, Express and others:**
+## **👀 I’m interested in React, TypeScript, Solidity, NextJS, NodeJS, Express, Nest.js and others:**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yakkkot/">
