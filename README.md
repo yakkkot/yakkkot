@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/yakkkot/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/yakkkkot/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 
 <div>
